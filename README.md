@@ -52,7 +52,37 @@ Thirdeye runs **automated pre-mortems** on your product ideas by:
 
 🔧 **THE FIX**: KILL this version. Pick ONE habit domain, validate the opportunity with 20 user interviews, test assumptions before building.
 
-[**Full roast example →**](thirdeye_roast_demo.md)
+[**Full roast →**](examples/roast-gamified-productivity.md)
+
+---
+
+## 📚 Example Roasts
+
+See Thirdeye in action with these real roast examples:
+
+### 1. AI-Powered Gamified All-in-One Habit App
+**Idea**: "Build an AI-powered productivity app with gamification (streaks, badges, leaderboards) + social features. Think Duolingo meets Strava meets TikTok dopamine loops for tasks, meditation, reading, and fitness all in one place."
+
+**Verdict**: Kill. Hard kill. Feature Frankenstein meets buzzword bingo.
+
+**Key Citations**:
+- Teresa Torres on jumping to solutions without discovery
+- Marty Cagan on feature factory thinking
+- Shreyas Doshi on placebo productivity
+
+[**Read full roast →**](examples/roast-gamified-productivity.md)
+
+### 2. AI Meeting Assistant (Otter + Fireflies + Reclaim Love Child)
+**Idea**: "AI meeting assistant that auto-generates action items, summaries, suggests follow-up messages in Slack/Teams. Real-time listening, context understanding, sentiment analysis, calendar integration. Basically Otter.ai + Fireflies + Reclaim.ai love child, but with better AI and zero privacy concerns because enterprise-grade."
+
+**Verdict**: Kill (or Pivot to 10x narrower). Tool worship meets symptom treatment.
+
+**Key Citations**:
+- Shreyas Doshi on high leverage vs positive ROI
+- Teresa Torres on treating symptoms vs root causes
+- Marty Cagan on tools don't fix culture
+
+[**Read full roast →**](examples/roast-ai-meeting-assistant.md)
 
 ---
 
